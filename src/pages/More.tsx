@@ -3,7 +3,7 @@ function More() {
     return (
       <>
         <h1 className="font-bold text-3xl pb-5">/ Thanks</h1>
-        <p>Thank you for visiting my website. The source code is available on my <span className="text-[#7e22ce]">github</span>.</p>
+        <p>Thank you for visiting my website. The source code is available on my <a className="text-purple-500" href="https://github.com/ItzSulfur/itzsulfur.xyz">github</a>.</p>
         <p>This website is still a work in progress. It was a quick one-day project on a lazy Sunday.</p>
 
         <h1 className="font-bold text-lg pb-5 pt-5">Socials</h1>

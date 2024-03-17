@@ -9,5 +9,5 @@ Still working on it and adding/styling stuff.
 - [Vite](https://vitejs.dev)
 - [React](https://react.dev)
 - [TypeScript](https://www.typescriptlang.org)
-- [Cloudflare Pages]([itzsulfur.xyz](https://itzsulfur.xyz))
+- [Cloudflare Pages](https://pages.cloudflare.com)
 
